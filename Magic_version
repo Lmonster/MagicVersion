@@ -1,5 +1,5 @@
 {
-	"version": "0.9.39",
-	"url":["http://igetoss.cdn.igetget.com/magic-dmg/201907/22/20190722v0.9.41.zip", "http://igetoss.cdn.igetget.com/magic-exe/201907/22/20190722v0.9.41.exe"],
-	"forceUpdate": 0
+  "version": "0.9.43",
+  "url":["http://igetoss.cdn.igetget.com/magic-dmg/201908/01/20190801v0.9.43.zip", "http://igetoss.cdn.igetget.com/magic-exe/201908/01/20190801v0.9.43.exe"],
+  "forceUpdate": 0
 }
