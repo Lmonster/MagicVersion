@@ -1,9 +1,4 @@
 {
-  "version": "0.9.52",
-  "url":["http://igetoss.cdn.igetget.com/magic-dmg/202001/03/20200103v0.9.52.zip", "http://igetoss.cdn.igetget.com/magic-exe/202001/02/20200102v0.9.52.exe"],
-  "forceUpdate": 0
-}
-{
   "version": "0.9.53",
   "url":["http://igetoss.cdn.igetget.com/magic-dmg/202001/03/20200103v0.9.53.zip", "http://igetoss.cdn.igetget.com/magic-exe/202001/03/20200103v0.9.53.exe"],
   "forceUpdate": 0
